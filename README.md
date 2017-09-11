@@ -1,2 +1,2 @@
-# Summer-Work-School
-This is the three tasks for my summer work at school.
+# Work-School
+This is where i am putting my school work 
