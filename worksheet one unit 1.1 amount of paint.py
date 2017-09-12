@@ -19,7 +19,7 @@ while command:
 command = True
 while command:
     try:
-        nolayers = int(input("How many layers do you want? "))
+        nolayers = input("How many layers do you want? ")
         nolayers = float(nolayers)
         command = False
         
